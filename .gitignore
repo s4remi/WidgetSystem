@@ -1,0 +1,33 @@
+# Build files
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Executables and object files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.lib
+
+# CLion project settings
+.idea/
+*.iml
+
+# User-specific CMake files
+CMakeUserPresets.json
+
+# OS-specific crap
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.swp
+*.bak
+*.tmp
